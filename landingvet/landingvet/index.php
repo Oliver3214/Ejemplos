@@ -58,7 +58,7 @@
                                 </select>
                         </div>
                         <div class="form-group">
-                            <input class="cuadro" type="checkbox" name="test" id="test">
+                            <input class="chek" type="checkbox" name="test" id="test">
                             <label class="text"> He leido y acepto las </label>
                         </div>
                         <div class="form-group1">
@@ -69,34 +69,52 @@
         </div>
         <div class="conten-form1">
             <div class="form2">
-                <form  method="POST"  >
-                    <div>
-                        <li></li>
-                        <li></li>
-                        <li></li>
-                        <li></li>
+                    <div class="items">
+                        <li>Mascotas</li>
+                        <li>Instalaciones</li> 
+                        <li>Conocenos</li>
+                        <li>Ubicacion</li>
                     </div>
                     <div>
                         <img src="mascota1.jpg" alt="">
                     </div>
                     <div>
-                        <img src="mascota1.jpg" alt="">
+                        <img src="mascota2.jpg" alt="">
                     </div>
                     <div>
-                        <img src="mascota1.jpg" alt="">
+                        <img src="mascota3.jpg" alt="">
                     </div><div>
-                        <img src="mascota1.jpg" alt="">
+                        <img src="mascota4.jpg" alt="">
                     </div><div>
-                        <img src="mascota1.jpg" alt="">
+                        <img src="mascota5.jpg" alt="">
+                    </div>
+                    <div>
+                        <img src="mascota6.jpg" alt="">
+                    </div>
+            </div>
+            <div class="form2">
+                    <div class="items">
+                        <li>Mascotas</li>
+                        <li>Instalaciones</li> 
+                        <li>Conocenos</li>
+                        <li>Ubicacion</li>
                     </div>
                     <div>
                         <img src="mascota1.jpg" alt="">
                     </div>
                     <div>
-                        <img src="mascota1.jpg" alt="">
+                        <img src="mascota2.jpg" alt="">
                     </div>
-                        
-                </form>
+                    <div>
+                        <img src="mascota3.jpg" alt="">
+                    </div><div>
+                        <img src="mascota4.jpg" alt="">
+                    </div><div>
+                        <img src="mascota5.jpg" alt="">
+                    </div>
+                    <div>
+                        <img src="mascota6.jpg" alt="">
+                    </div>
             </div>
         </div>
     </div>
